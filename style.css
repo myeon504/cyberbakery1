@@ -417,11 +417,12 @@ header{width: 100%;
     justify-content: center;
     align-items: center;
 }
-a {color : black;}
+a:hover {color : black;}
 .button-container{position: absolute; width: 420px; bottom: 20px;}
 .button-container-2{position: absolute; width: 1120px; bottom: 20px;}
 
 .prev-button{
+	color : black;
     font-family: minion-pro-subhead,serif;
     font-weight: 400;
     font-style: italic;
@@ -431,6 +432,7 @@ a {color : black;}
     float: left;}
 
 .next-button{
+	color : black;
     font-family: minion-pro-subhead,serif;
     font-weight: 400;
     font-style: italic;
@@ -440,6 +442,7 @@ a {color : black;}
     float: right;}
 
 .finish-button{
+	color : black;
         font-family: minion-pro-subhead,serif;
         font-weight: 400;
         font-style: italic;
