@@ -417,7 +417,7 @@ header{width: 100%;
     justify-content: center;
     align-items: center;
 }
-
+a {color : black;}
 .button-container{position: absolute; width: 420px; bottom: 20px;}
 .button-container-2{position: absolute; width: 1120px; bottom: 20px;}
 
